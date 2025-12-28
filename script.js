@@ -1,0 +1,1 @@
+alert("welcome to our web this website is made by DURGESH YADAV for class 9 students as a helper ")
